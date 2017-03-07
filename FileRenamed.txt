@@ -1,14 +1,14 @@
 Welcome to GIT...!!!
 
-change---2...
+Change - 2...
 
 
-change3....!!
+Change - 3....!!
 
 
-change4....!!
-change---5...!!!
+Change4....!!
+Change---5...!!!
 
-change6...!!
+Change6...!!
 
-change--->7
+Change--->7
